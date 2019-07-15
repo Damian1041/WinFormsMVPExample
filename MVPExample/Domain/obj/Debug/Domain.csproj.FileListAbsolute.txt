@@ -1,0 +1,8 @@
+C:\Users\damian.dziedzic\source\repos\Task\Domain\bin\Debug\Domain.dll
+C:\Users\damian.dziedzic\source\repos\Task\Domain\bin\Debug\Domain.pdb
+C:\Users\damian.dziedzic\source\repos\Task\Domain\bin\Debug\Ninject.dll
+C:\Users\damian.dziedzic\source\repos\Task\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\damian.dziedzic\source\repos\Task\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\damian.dziedzic\source\repos\Task\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\damian.dziedzic\source\repos\Task\Domain\obj\Debug\Domain.dll
+C:\Users\damian.dziedzic\source\repos\Task\Domain\obj\Debug\Domain.pdb

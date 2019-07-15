@@ -1,0 +1,14 @@
+C:\Users\damian.dziedzic\source\repos\Task\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
+C:\Users\damian.dziedzic\source\repos\Task\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\damian.dziedzic\source\repos\Task\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\damian.dziedzic\source\repos\Task\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\damian.dziedzic\source\repos\Task\Infrastructure\bin\Debug\AutoMapper.dll
+C:\Users\damian.dziedzic\source\repos\Task\Infrastructure\bin\Debug\AutoMapper.pdb
+C:\Users\damian.dziedzic\source\repos\Task\Infrastructure\bin\Debug\Ninject.dll
+C:\Users\damian.dziedzic\source\repos\Task\Infrastructure\bin\Debug\AlertApiMock.dll
+C:\Users\damian.dziedzic\source\repos\Task\Infrastructure\bin\Debug\Domain.dll
+C:\Users\damian.dziedzic\source\repos\Task\Infrastructure\bin\Debug\AlertApiMock.pdb
+C:\Users\damian.dziedzic\source\repos\Task\Infrastructure\bin\Debug\Domain.pdb
+C:\Users\damian.dziedzic\source\repos\Task\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
+C:\Users\damian.dziedzic\source\repos\Task\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\damian.dziedzic\source\repos\Task\Infrastructure\obj\Debug\Infrastructure.pdb

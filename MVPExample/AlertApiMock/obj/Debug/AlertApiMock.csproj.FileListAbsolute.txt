@@ -1,0 +1,6 @@
+C:\Users\damian.dziedzic\source\repos\Task\AlertApiMock\obj\Debug\AlertApiMock.csprojAssemblyReference.cache
+C:\Users\damian.dziedzic\source\repos\Task\AlertApiMock\obj\Debug\AlertApiMock.csproj.CoreCompileInputs.cache
+C:\Users\damian.dziedzic\source\repos\Task\AlertApiMock\bin\Debug\AlertApiMock.dll
+C:\Users\damian.dziedzic\source\repos\Task\AlertApiMock\bin\Debug\AlertApiMock.pdb
+C:\Users\damian.dziedzic\source\repos\Task\AlertApiMock\obj\Debug\AlertApiMock.dll
+C:\Users\damian.dziedzic\source\repos\Task\AlertApiMock\obj\Debug\AlertApiMock.pdb
